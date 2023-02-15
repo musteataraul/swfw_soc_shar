@@ -1,0 +1,6 @@
+variants:
+    generic:
+        uses:
+            swfw_shared_ti: &alias_swfw_shared_ti
+                release: "1.3"
+                variant: generic
