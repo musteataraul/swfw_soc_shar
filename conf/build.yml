@@ -1,7 +1,7 @@
 variants:
     generic:
         production:
-        
+       
             uses:
                 swfw_shared_ti: &alias_swfw_shared_ti
                     release: "1.3"
